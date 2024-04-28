@@ -147,6 +147,7 @@ nav a:visited {
   background: #444;
   width: fit-content;
   margin: 0 auto;
+  background: linear-gradient(135deg, #555, #333);
 }
 .section3 a,
 .section3 a:hover {
